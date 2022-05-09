@@ -2,7 +2,7 @@
 
 Welcome to my little spot on GitHub!
 
-- 🔭 I’m currently working on Java on AWS 
+- 🔭 I’m currently working on Java, Serverless and Containers on AWS.
 - 🌱 I’m currently learning Kotlin, GraalVM and TypeScript.
 - 👯 I’m looking to collaborate on helping Java devs adopt the serverless mindset.
 - 💬 Ask me about Java, Spring and AWS!
