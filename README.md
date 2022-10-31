@@ -9,6 +9,9 @@ Welcome to my little spot on GitHub!
 - 👨‍💻 Read more about my thoughts and learnings @ [**www.jeroenreijn.com**](https://www.jeroenreijn.com)
 - 📫 How to reach me: [**@jreijn**](https://twitter.com/jreijn)
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <!--
 **jreijn/jreijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
