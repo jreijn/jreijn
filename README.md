@@ -11,11 +11,11 @@ Welcome to my little spot on GitHub!
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Invoking an AWS Lambda function during a CDK deployment](https://jreijn.hashnode.dev/invoking-an-aws-lambda-function-during-a-cdk-deployment)
- - 🌮 [Configure Autoscaling for AWS Lambda Provisioned Concurrency with AWS CDK](https://jreijn.hashnode.dev/configure-autoscaling-for-aws-lambda-provisioned-concurrency-with-aws-cdk)
- - 🔥 [Creating a simple API stub with API Gateway and S3](https://jreijn.hashnode.dev/creating-a-simple-api-stub-with-api-gateway-and-s3-8ddb133eab6f)
- - 💫 [Deploy Spring Boot Applications to AWS App Runner with AWS CodePipeline](https://jreijn.hashnode.dev/deploying-spring-boot-applications-to-aws-app-runner-with-aws-codepipeline-f0ce0dd5d863)
- - 💯 [A First Impression of AWS App Runner](https://jreijn.hashnode.dev/a-first-impression-of-aws-app-runner-232dc0651445)<!-- BLOGPOSTS:END -->
+ - 🔥 [Lessons learned from picking a Java based driver for Amazon ElastiCache for Redis - Part 1](https://jreijn.hashnode.dev/lessons-learned-from-picking-a-java-based-driver-for-amazon-elasticache-for-redis-part-1)
+ - 🌮 [Invoking an AWS Lambda function during a CDK deployment](https://jreijn.hashnode.dev/invoking-an-aws-lambda-function-during-a-cdk-deployment)
+ - 🔥 [Configure Autoscaling for AWS Lambda Provisioned Concurrency with AWS CDK](https://jreijn.hashnode.dev/configure-autoscaling-for-aws-lambda-provisioned-concurrency-with-aws-cdk)
+ - 💫 [Creating a simple API stub with API Gateway and S3](https://jreijn.hashnode.dev/creating-a-simple-api-stub-with-api-gateway-and-s3-8ddb133eab6f)
+ - 💯 [Deploy Spring Boot Applications to AWS App Runner with AWS CodePipeline](https://jreijn.hashnode.dev/deploying-spring-boot-applications-to-aws-app-runner-with-aws-codepipeline-f0ce0dd5d863)<!-- BLOGPOSTS:END -->
 
 <!--
 **jreijn/jreijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
