@@ -11,11 +11,11 @@ Welcome to my little spot on GitHub!
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Evolution of the AWS Community Builders Blogs Twitter Bot Architecture](https://jreijn.hashnode.dev/the-evolution-of-the-aws-community-builders-blogs-twitter-bot-architecture)
- - 🌮 [Develop and Test your Github Actions workflow locally with &quot;act&quot;](https://jreijn.hashnode.dev/develop-and-test-your-github-actions-workflow-locally-with-act)
- - 🔥 [Improve AWS security and compliance with cdk-nag](https://jreijn.hashnode.dev/improve-aws-security-and-compliance-with-cdk-nag)
- - 💫 [Lessons learned from picking the right Java driver for Amazon ElastiCache for Redis - Part 2](https://jreijn.hashnode.dev/lessons-learned-from-picking-the-right-java-driver-for-amazon-elasticache-for-redis-part-2)
- - 💯 [Lessons learned from picking a Java based driver for Amazon ElastiCache for Redis - Part 1](https://jreijn.hashnode.dev/lessons-learned-from-picking-a-java-based-driver-for-amazon-elasticache-for-redis-part-1)<!-- BLOGPOSTS:END -->
+ - 🔥 [Analyze and debug Quarkus based AWS Lambda functions with X-Ray](https://buildwith.jeroenreijn.com/analyze-and-debug-quarkus-based-aws-lambda-functions-with-x-ray)
+ - 🌮 [The Evolution of the AWS Community Builders Blogs Twitter Bot Architecture](https://buildwith.jeroenreijn.com/the-evolution-of-the-aws-community-builders-blogs-twitter-bot-architecture)
+ - 🔥 [Develop and Test your Github Actions workflow locally with &quot;act&quot;](https://buildwith.jeroenreijn.com/develop-and-test-your-github-actions-workflow-locally-with-act)
+ - 💫 [Improve AWS security and compliance with cdk-nag](https://buildwith.jeroenreijn.com/improve-aws-security-and-compliance-with-cdk-nag)
+ - 💯 [Lessons learned from picking the right Java driver for Amazon ElastiCache for Redis - Part 2](https://buildwith.jeroenreijn.com/lessons-learned-from-picking-the-right-java-driver-for-amazon-elasticache-for-redis-part-2)<!-- BLOGPOSTS:END -->
 
 <!--
 **jreijn/jreijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
