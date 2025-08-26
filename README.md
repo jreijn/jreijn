@@ -11,11 +11,11 @@ Welcome to my little spot on GitHub!
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Multi-account DNS with AWS CDK](http://www.jeroenreijn.com/2025/02/multi-account-dns-with-aws-cdk.html)
- - 🌮 [AWS re:Invent 2024 Day 4](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-4.html)
- - 🔥 [AWS re:Invent 2024 Day 3](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-3.html)
- - 💫 [AWS re:Invent 2024 Day 2](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-2.html)
- - 💯 [AWS re:Invent 2024 Day 1](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-1.html)<!-- BLOGPOSTS:END -->
+ - 🔥 [Enabling AWS Budget Notifications with SNS using AWS CDK](http://www.jeroenreijn.com/2025/08/enabling-aws-budget-notifications-with-sns-using-aws-cdk.html)
+ - 🌮 [Multi-account DNS with AWS CDK](http://www.jeroenreijn.com/2025/02/multi-account-dns-with-aws-cdk.html)
+ - 🔥 [AWS re:Invent 2024 Day 4](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-4.html)
+ - 💫 [AWS re:Invent 2024 Day 3](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-3.html)
+ - 💯 [AWS re:Invent 2024 Day 2](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-2.html)<!-- BLOGPOSTS:END -->
 
 <!--
 **jreijn/jreijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
