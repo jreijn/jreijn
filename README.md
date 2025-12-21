@@ -11,11 +11,11 @@ Welcome to my little spot on GitHub!
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Improve observability for Windows EC2 instances with the CloudWatch Agent](http://www.jeroenreijn.com/2025/10/improve-observability-for-windows-ec2-instances-with-the-cloudwatch-agent.html)
- - 🌮 [Enabling AWS Budget Notifications with SNS using AWS CDK](http://www.jeroenreijn.com/2025/08/enabling-aws-budget-notifications-with-sns-using-aws-cdk.html)
- - 🔥 [Multi-account DNS with AWS CDK](http://www.jeroenreijn.com/2025/02/multi-account-dns-with-aws-cdk.html)
- - 💫 [AWS re:Invent 2024 Day 4](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-4.html)
- - 💯 [AWS re:Invent 2024 Day 3](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-3.html)<!-- BLOGPOSTS:END -->
+ - 🔥 [Amazon ECS Express Mode from an IaC perspective](http://www.jeroenreijn.com/2025/12/amazon-ecs-express-mode-from-an-iac-perspective.html)
+ - 🌮 [Improve observability for Windows EC2 instances with the CloudWatch Agent](http://www.jeroenreijn.com/2025/10/improve-observability-for-windows-ec2-instances-with-the-cloudwatch-agent.html)
+ - 🔥 [Enabling AWS Budget Notifications with SNS using AWS CDK](http://www.jeroenreijn.com/2025/08/enabling-aws-budget-notifications-with-sns-using-aws-cdk.html)
+ - 💫 [Multi-account DNS with AWS CDK](http://www.jeroenreijn.com/2025/02/multi-account-dns-with-aws-cdk.html)
+ - 💯 [AWS re:Invent 2024 Day 4](http://www.jeroenreijn.com/2024/12/aws-reinvent-2024-day-4.html)<!-- BLOGPOSTS:END -->
 
 <!--
 **jreijn/jreijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
