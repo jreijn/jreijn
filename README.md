@@ -3,9 +3,9 @@
 Welcome to my little spot on GitHub!
 
 - 🔭 I’m currently working on **Java, Serverless and Containers on AWS**.
-- 🌱 I’m currently learning **Kotlin, GraalVM and TypeScript**.
+- 🌱 I’m currently learning **Spring AI and Amazon Bedrock AgentCore**.
 - 👯 I’m looking to collaborate on **helping Java devs adopt the serverless mindset**.
-- 💬 Ask me about **Java, Spring and AWS!**
+- 💬 Ask me about **AWS and Java!**
 - 👨‍💻 Read more about my thoughts and learnings @ [**www.jeroenreijn.com**](https://www.jeroenreijn.com)
 - 📫 How to reach me: [**@jreijn**](https://x.com/jreijn)
 
